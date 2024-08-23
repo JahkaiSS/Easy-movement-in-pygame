@@ -1,1 +1,3 @@
-![bruh](https://github.com/user-attachments/assets/9c60373b-9e95-4137-aa1d-2c01abd1ef80)
+Collision and movement with simple implementation!
+
+![pic move](https://github.com/user-attachments/assets/9df5eafb-852e-427d-b366-d66efe7b6133)
